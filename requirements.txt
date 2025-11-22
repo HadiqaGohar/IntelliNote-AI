@@ -1,0 +1,6 @@
+dotenv>=0.9.9
+openai-agents>=0.6.1
+pypdf2>=3.0.1
+context7-mcp
+gemini-cli
+streamlit>=1.51.0
